@@ -1,6 +1,26 @@
 {
-    "name": "slider",
-    "version": "0.1.0",
-    "private": true,
-    "author": "darktend"
+  "name": "slider",
+  "version": "0.1.0",
+  "private": true,
+  "author": "darktend",
+  "bin": {
+    "mytool": "bin/index.js"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darktend/Slider.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darktend/Slider/issues"
+  },
+  "homepage": "https://github.com/darktend/Slider#readme",
+  "dependencies": {
+    "jshint": "^2.12.0"
+  }
 }
