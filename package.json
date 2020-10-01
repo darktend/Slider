@@ -1,0 +1,24 @@
+{
+    "name": "slider",
+    "version": "0.1.1",
+    "private": true,
+    "author": "darktend",
+    "description": "start project slider",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/darktend/Slider.git"
+    },
+
+    "bugs": {
+        "url": "https://github.com/darktend/Slider/issues"
+    },
+    "homepage": "https://github.com/darktend/Slider#readme",
+    "dependencies": {
+        "jshint": "^2.12.0"
+    }
+}
